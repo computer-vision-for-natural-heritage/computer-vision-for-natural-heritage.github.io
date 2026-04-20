@@ -1,0 +1,4 @@
+---
+name: Opening
+hide: true
+---
