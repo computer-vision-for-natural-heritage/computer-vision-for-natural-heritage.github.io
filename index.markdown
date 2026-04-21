@@ -56,7 +56,16 @@ layout: home
 
 Large-scale digitization initiatives are generating massive image datasets from natural history collections. Computer vision is essential for unlocking the scientific value of these data, enabling automated extraction of specimen information and supporting research in biodiversity, ecology, and evolution, including studies of migration and ongoing mass extinction. However, despite controlled imaging conditions and rich metadata, automated analysis remains challenging due to complex specimen structures, varying appearances, and handwritten labels.
 
-The CVNH workshop brings together computer vision researchers, natural heritage digitization experts, and domain scientists to advance methods for analyzing 2D, 3D, and multi-modal imaging of natural history collections and to identify open challenges.
+The <b>Computer Vision for Natural Heritage (CVNH) is an <font size="+1">ECCV workshop</font></b> that brings together computer vision researchers, natural heritage digitization experts, and domain scientists to advance methods for analyzing 2D, 3D, and multi-modal imaging of natural history collections and to identify open challenges.
+
+CVNH workshop has a <b><font color="red">Call for Papers</font></b> and presents two Challenges:
+
+* <b>Forams</b>: Detection and classification of microCT 3D scans of Forameniferas,
+* <b>OCR Museum Labels</b>: Optical Character Recognition of Museum label images.
+
+Top-performing teams of the Forams challenge will be invited to participate in a paper related to the challenge.
+
+<iframe width="480px" height="580px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=I_FR8s7JjkSSdzS7KFkR2TMT5yfaW_hGvFBYipukVclUN1BVUVpFWE1YT1FTM0c3N0hYTE9BS0lSNy4u&amp;embed=true" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen="" spellcheck="false"> </iframe>
 
 <br><br>
 

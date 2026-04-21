@@ -19,8 +19,14 @@ The covered topics include but are not limited to:
 <li>Computational challenges for species recognition (CT-scans of micro‑fossils and handwritten insect labels)</li>
 </ul>
 
+<h2>Format & Submission</h2>
+Papers are limited to <b>14 pages</b>, including figures and tables, in the LNCS style of Springer. Additional pages containing only cited references are allowed.
+
+Download the ECCV 2026 Author Kit for LaTeX <u>here</u> (link to be provided soon)
+
+Submission platform: <u>OpenReview</u> (link to be provided soon)
+
 <h2>Dates</h2>
-Paper submission deadline: TBA <br>
-Paper acceptance notification: TBA <br>
+**Paper submission deadline: July (exact date TBA soon!)** <br>
+Notification to authors: TBA <br>
 Paper camera-ready version: TBA <br>
-Workshop date: TBA

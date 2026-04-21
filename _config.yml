@@ -79,6 +79,8 @@ conference:
         relative_url: /speakers
       - name: Call for Papers
         relative_url: /cfp
+      - name: Datasets
+        relative_url: /datasets
       - name: Venue
         relative_url: /venue/
       - name: Organization
