@@ -30,3 +30,8 @@ Submission platform: <u>OpenReview</u> (link to be provided soon)
 **Paper submission deadline: July (exact date TBA soon!)** <br>
 Notification to authors: TBA <br>
 Paper camera-ready version: TBA <br>
+
+<h3>Newsletter</h3>
+Sign up to be notified when the final dates are decided and when the datasets are released.
+
+<iframe width="480px" height="580px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=I_FR8s7JjkSSdzS7KFkR2TMT5yfaW_hGvFBYipukVclUN1BVUVpFWE1YT1FTM0c3N0hYTE9BS0lSNy4u&amp;embed=true" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen="" spellcheck="false"> </iframe>

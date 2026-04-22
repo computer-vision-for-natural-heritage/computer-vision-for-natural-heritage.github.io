@@ -116,7 +116,7 @@ title: Speakers
 </div>
 
 <div class="profile-container">
-    <img src="/assets/images/joakim.png" alt="Joakim Bruslund Haurum" class="profile-image">
+    <img src="/assets/images/joakim.jpg" alt="Joakim Bruslund Haurum" class="profile-image">
     <div class="profile-info">
         <h2 class="profile-name">Joakim Bruslund Haurum <a href="https://joakimhaurum.github.io/"><img src="/assets/images/globe.png" class="link"></a></h2>
         <p class="profile-affiliation">Assistant Professor at the University of Southern Denmark (Denmark)</p>
