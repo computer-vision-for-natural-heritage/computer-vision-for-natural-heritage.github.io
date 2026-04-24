@@ -99,6 +99,10 @@ layout: page
 <div class="logo-item">
   <img class="logo-img" src="/assets/images/snm_logo.png" alt="SNM logo" loading="lazy">
 </div>
+
+<div class="logo-item">
+  <img class="logo-img" style="width:250px;" src="/assets/images/qim_logo.png" alt="QIM logo" loading="lazy">
+</div>
 </div>
 
 

@@ -81,7 +81,7 @@ title: Organization
     <img src="/assets/images/anders.jpg" alt="Anders Profile picture" class="profile-image" />
     <div class="profile-info">
         <h2 class="profile-name">Anders Bjorholm Dahl</h2>
-        <p class="profile-affiliation">Professor, Technical University of Denmark</p>
+        <p class="profile-affiliation">Professor, Technical University of Denmark & QIM</p>
     </div>
 </div>
 
@@ -89,7 +89,7 @@ title: Organization
     <img src="/assets/images/martin.jpg" alt="Martin Profile picture" class="profile-image" />
     <div class="profile-info">
         <h2 class="profile-name">Hans Martin Kjer</h2>
-        <p class="profile-affiliation">Associate Professor, Technical University of Denmark</p>
+        <p class="profile-affiliation">Associate Professor, Technical University of Denmark & QIM</p>
     </div>
 </div>
 
@@ -105,7 +105,7 @@ title: Organization
     <img src="/assets/images/miguel.jpg" alt="Miguel Profile picture" class="profile-image" />
     <div class="profile-info">
         <h2 class="profile-name">J. Miguel Valverde</h2>
-        <p class="profile-affiliation">Postdoctoral Researcher, Technical University of Denmark</p>
+        <p class="profile-affiliation">Postdoctoral Researcher, Technical University of Denmark & QIM</p>
         <p class="profile-links">
             <a href="mailto:jmvma@dtu.dk"><img src="/assets/images/email.png" /></a>
             <a href="https://jmlipman.github.io/"><img src="/assets/images/globe.png" /></a>
@@ -115,3 +115,5 @@ title: Organization
     </div>
 </div>
 
+<h2>Questions?</h2>
+Contact jmvma [at] dtu.dk

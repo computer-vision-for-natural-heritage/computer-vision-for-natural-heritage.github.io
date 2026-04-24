@@ -107,7 +107,7 @@ title: Speakers
     <img src="/assets/images/moritz.jpg" alt="Moritz Lürig" class="profile-image">
     <div class="profile-info">
         <h2 class="profile-name">Moritz Lürig <a href="https://www.luerig.net/"><img src="/assets/images/globe.png" class="link"></a></h2>
-        <p class="profile-affiliation">Assistant Professor at Bonn Universit (Germany)</p>
+        <p class="profile-affiliation">Assistant Professor at Bonn University (Germany)</p>
         <p class="talk-title">TBA</p>
         <p class="talk-summary">
          TBA
