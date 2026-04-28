@@ -73,7 +73,10 @@ title: Organization
     <img src="/assets/images/kim.jpg" alt="Kim Profile picture" class="profile-image" />
     <div class="profile-info">
         <h2 class="profile-name">Kim Steenstrup Petersen</h2>
-        <p class="profile-affiliation">Professor, University of Copenhagen & Statens Naturhistoriske Museum</p>
+        <p class="profile-affiliation">Professor, Natural History Museum Denmark, University of Copenhagen</p>
+        <p class="profile-links">
+            <a href="https://kimstp.github.io/"><img src="/assets/images/globe.png" /></a>
+        </p>
     </div>
 </div>
 
