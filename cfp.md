@@ -27,9 +27,9 @@ Download the ECCV 2026 Author Kit for LaTeX <u>here</u> (link to be provided soo
 Submission platform: <u>OpenReview</u> (link to be provided soon)
 
 <h2>Dates</h2>
-**Paper submission deadline: July (exact date TBA soon!)** <br>
-Notification to authors: TBA <br>
-Paper camera-ready version: TBA <br>
+**Paper submission deadline: July 7, 2026 (AoE)** <br>
+Notification to authors: July 25, 2026 <br>
+Paper camera-ready version: August 8, (AoE) <br>
 
 <h3>Newsletter</h3>
 Sign up to be notified when the final dates are decided and when the datasets are released.
