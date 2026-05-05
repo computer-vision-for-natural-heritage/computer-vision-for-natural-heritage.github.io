@@ -120,7 +120,7 @@ title: Speakers
     <div class="profile-info">
         <h2 class="profile-name">Joakim Bruslund Haurum <a href="https://joakimhaurum.github.io/"><img src="/assets/images/globe.png" class="link"></a></h2>
         <p class="profile-affiliation">Assistant Professor at the University of Southern Denmark (Denmark)</p>
-        <p class="talk-title">TBA</p>
+        <p class="talk-title">Multimodal AI for Ecological Monitoring: Images, DNA, and Geolocation</p>
         <p class="talk-summary">
         TBA
         </p>
