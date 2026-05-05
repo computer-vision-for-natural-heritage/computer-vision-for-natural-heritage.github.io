@@ -76,14 +76,26 @@ layout: page
 <p>CVNH workshop has a <b><font color="red">Call for Papers</font></b> and presents two Challenges:</p>
 
 <ul>
-  <li><b>Forams</b>: Detection and classification of microCT 3D scans of Forameniferas,</li>
-  <li><b>OCR Museum Labels</b>: Optical Character Recognition of Museum label images.</li>
+  <li><b>Foram2026</b>: Detection and classification of microCT 3D scans of Forameniferas,</li>
+  <li><b>MuseumLabels2026</b>: Optical Character Recognition of Museum label images.</li>
 </ul>
 
-<p><b>The top-performing teams of the Forams challenge will be invited to participate in a paper related to the challenge.</b></p>
+<div class="logo-row">
+<div class="logo-item">
+  <a href="/datasets"><img class="logo-img" style="width:400px; height: 350px" src="/assets/images/Foram2026.png" alt="Forams logo" loading="lazy"></a>
+</div>
+
+<div class="logo-item">
+  <a href="/datasets"><img class="logo-img" style="width:400px; height: 350px" src="/assets/images/museumlabels2026.png" alt="Museum labels" loading="lazy"></a>
+</div>
+</div>
+
+<br>
+
+<p><b>The top-performing teams of the challenges will be invited to participate in a paper related to the challenge.</b></p>
+
 
 <p><br><br></p>
-
 <div class="logo-row">
 
 <div class="logo-item">

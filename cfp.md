@@ -22,7 +22,7 @@ The covered topics include but are not limited to:
 <h2>Format & Submission</h2>
 Papers are limited to <b>14 pages</b>, including figures and tables, in the LNCS style of Springer. Additional pages containing only cited references are allowed.
 
-Download the ECCV 2026 Author Kit for LaTeX <u>here</u> (link to be provided soon)
+Download the ECCV 2026 Author Kit for LaTeX <a href="https://eccv.ecva.net/Conferences/2026/SubmissionPolicies" target="_blank">here</a> (link to be provided soon)
 
 Submission platform: <u>OpenReview</u> (link to be provided soon)
 
