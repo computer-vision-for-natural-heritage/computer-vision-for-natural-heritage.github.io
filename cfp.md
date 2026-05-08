@@ -19,6 +19,8 @@ The covered topics include but are not limited to:
 <li>Computational challenges for species recognition (CT-scans of micro‑fossils and handwritten insect labels)</li>
 </ul>
 
+We are also launching two Kaggle [Challenges](datasets), and the authors of the top-performing submissions will be invited to participate in a paper.
+
 <h2>Format & Submission</h2>
 Papers are limited to <b>14 pages</b>, including figures and tables, in the LNCS style of Springer. Additional pages containing only cited references are allowed.
 
