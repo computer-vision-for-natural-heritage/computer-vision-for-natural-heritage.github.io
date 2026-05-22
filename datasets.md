@@ -25,27 +25,15 @@ CVNH workshop introduces two dataset challenges: <b>Foram2026</b> and <b>MuseumL
 <b>Example volume</b>: TBA.
 
 
-<<<<<<< HEAD
-<h2>MuseumSCAT2026 Challenge - <a href="https://www.kaggle.com/competitions/museumscat-specimen-collection-annotation-task/overview" target="_blank">Link to Kaggle</a></h2>
-=======
 <h2>MuseumSCAT2026 Challenge - <a href="https://www.kaggle.com/competitions/museumscat-specimen-collection-annotation-task/overview">Kaggle Competition</a></h2>
->>>>>>> 492878e79edae6285e442573c66a62fd58871722
 
 <b>Task</b>: Text recognition and text type identification (e.g., "date", "locality") in museum label photographs.
 
-<<<<<<< HEAD
-<b>Dataset size</b>: 3500 images.
-
-<b>Example image</b>:
-
-<img src="/assets/images/museumscat_example.jpeg" width="100%" />
-=======
 <b>Dataset size</b>: 3500 images and annotations.
 
 <b>Example image</b>:
 
 <img src="assets/images/museumscat_example.jpg" alt="Museum label specimen example" style="max-width: 600px; width: 100%;" />
->>>>>>> 492878e79edae6285e442573c66a62fd58871722
 
 
 Sign up in [our newsletter](/cfp) to be notified about updates.
