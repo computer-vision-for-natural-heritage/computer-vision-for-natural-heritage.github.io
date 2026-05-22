@@ -77,7 +77,7 @@ layout: page
 
 <ul>
   <li><b>Foram2026</b>: Detection and classification of microCT 3D scans of Forameniferas,</li>
-  <li><b>MuseumLabels2026</b>: Optical Character Recognition of Museum label images.</li>
+  <li><b>MuseumSCAT2026</b>: Optical Character Recognition of Museum label images.</li>
 </ul>
 
 <div class="logo-row">
@@ -86,7 +86,7 @@ layout: page
 </div>
 
 <div class="logo-item">
-  <a href="/datasets"><img class="logo-img" style="width:400px; height: 350px" src="/assets/images/museumlabels2026.png" alt="Museum labels" loading="lazy"></a>
+  <a href="/datasets"><img class="logo-img" style="width:400px; height: 350px" src="/assets/images/museumscat2026.png" alt="Museum labels" loading="lazy"></a>
 </div>
 </div>
 
