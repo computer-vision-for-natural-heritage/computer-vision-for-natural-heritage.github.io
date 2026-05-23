@@ -25,6 +25,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 meta_title: CVNH - ECCV Workshop 2026
+meta_url: https://computer-vision-for-natural-heritage.github.io/
+meta_description: Computer Vision Natural Heritage CVNH ECCV Workshop 2026
 
 # Build settings
 theme: jekyll-theme-conference

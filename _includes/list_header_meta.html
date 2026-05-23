@@ -25,9 +25,9 @@
   <meta property="og:image" content="{{ og_image_url }}" />
   <meta property="og:image:alt" content="{{ page_title }}" />
   {%- endif %}
-  <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
-  <meta property="og:title" content="{{ page_title }}" />
-  <meta property="og:description" content="{{ page_description }}" />
+  <meta property="og:url" content="{{ site.meta_url }}" />
+  <meta property="og:title" content="{{ site.meta_title }}" />
+  <meta property="og:description" content="{{ site.meta_description }}" />
   <meta property="og:type" content="website" />
 {%- endunless %}
 
