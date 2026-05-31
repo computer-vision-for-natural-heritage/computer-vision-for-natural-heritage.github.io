@@ -107,10 +107,10 @@ title: Speakers
     <img src="/assets/images/moritz.jpg" alt="Moritz Lürig" class="profile-image">
     <div class="profile-info">
         <h2 class="profile-name">Moritz Lürig <a href="https://www.luerig.net/"><img src="/assets/images/globe.png" class="link"></a></h2>
-        <p class="profile-affiliation">Assistant Professor at Bonn University (Germany)</p>
-        <p class="talk-title">TBA</p>
+        <p class="profile-affiliation">Group Leader at the Leibniz Center for the Analysis of Biodiversity Change (LIB) in Bonn (Germany)</p>
+        <p class="talk-title">Navigating the complexity of butterfly wing patterns with computer vision</p>
         <p class="talk-summary">
-         TBA
+         Natural history collections are the largest archives of organismal phenotypes, and digitization is rapidly making millions of specimens available for quantitative biological research. A major challenge is to navigate this staggering body of phenotypic complexity and quantify variation in ways that enable biologically meaningful comparisons. Lepidoptera (butterflies and moths) are a megadiverse group (approx. 160,000 described species), and have provided classic examples for the study of developmental complexity and ecological significance of animal coloration. They are also exceptionally well suited to study phenotypic diversification using computer vision: their wings carry diverse, evolutionarily relevant color patterns, yet this enormous permutational complexity is largely confined to two dimensions. Moreover, Lepidoptera have long fascinated biologists and the general public alike, making them extremely well represented in museum collections and citizen science databases. Here I show how computer vision can unlock pinned Lepidoptera specimens from museum collections as a powerful resource for biological research. Using Nymphalidae, the largest butterfly family, as a case study, I demonstrate how AI-derived features can reveal major axes of evolutionary variation, and how this approach can scale from individual to collection-wide phenomic studies across butterflies, moths and other taxa.
         </p>
     </div>
 </div>
