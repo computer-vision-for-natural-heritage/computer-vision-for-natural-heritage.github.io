@@ -77,6 +77,7 @@ title: Speakers
             .profile-image {
                 width: 150px;
                 height: 150px;
+                margin: auto;
             }
         }
 </style>
