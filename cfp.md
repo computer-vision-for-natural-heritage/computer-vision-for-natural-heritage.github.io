@@ -26,7 +26,7 @@ Papers are limited to <b>14 pages</b>, including figures and tables, in the LNCS
 
 Download the ECCV 2026 Author Kit for LaTeX <a href="https://eccv.ecva.net/Conferences/2026/SubmissionPolicies" target="_blank">here</a> (link to be provided soon)
 
-Submission platform: <u>OpenReview</u> (link to be provided soon)
+Submission platform: <u>OpenReview</u> (link to be provided soon). Authors need to be have a valid an updated OpenReview account.
 
 <h2>Dates</h2>
 **Paper submission deadline: July 7, 2026 (AoE)** <br>
