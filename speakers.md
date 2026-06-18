@@ -123,7 +123,7 @@ title: Speakers
         <p class="profile-affiliation">Assistant Professor at the University of Southern Denmark (Denmark)</p>
         <p class="talk-title">Multimodal AI for Ecological Monitoring: Images, DNA, and Geolocation</p>
         <p class="talk-summary">
-        TBA
+        Measuring biodiversity is crucial for understanding ecosystem health. However, differentiating different species often requires taxonomists who have acquired expert level knowledge over several years. This is both time inefficient and the science of taxonomy has been de-prioritized over the years. Therefore, developing Computer Vision and AI methodologies and benchmarks specifically for biodiversity monitoring is of great importance, in order to alleviate, assist, and enable domain experts. In this talk, I will present recent work where we have developed the multimodal benchmarks and methods for biodiversity monitoring. These work focuses on the use domain knowledge available from unique domain modalities such as DNA barcode and text-based representations of taxonomic labels.
         </p>
     </div>
 </div>
