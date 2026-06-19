@@ -24,9 +24,9 @@ We are also launching two Kaggle [Challenges](datasets), and the authors of the 
 <h2>Format & Submission</h2>
 Papers are limited to <b>14 pages</b>, including figures and tables, in the LNCS style of Springer. Additional pages containing only cited references are allowed.
 
-Download the ECCV 2026 Author Kit for LaTeX <a href="https://eccv.ecva.net/Conferences/2026/SubmissionPolicies" target="_blank">here</a> (link to be provided soon)
+Download the ECCV 2026 Author Kit for LaTeX <a href="https://eccv.ecva.net/Conferences/2026/SubmissionPolicies" target="_blank">here</a> (see <b>Paper formatting</b>)
 
-Submission platform: <u>OpenReview</u> (link to be provided soon). Authors need to be have a valid an updated OpenReview account.
+Submission platform: <a href="https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/CVNH" target="_blank">OpenReview</a>. <b>Authors need to be have a valid an updated OpenReview account.</b>
 
 <h2>Dates</h2>
 **Paper submission deadline: July 7, 2026 (AoE)** <br>
