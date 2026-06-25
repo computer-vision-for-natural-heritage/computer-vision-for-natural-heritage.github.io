@@ -87,9 +87,11 @@ title: Speakers
     <div class="profile-info">
         <h2 class="profile-name">Elizabeth G. Campolongo <a href="https://egrace479.github.io/"><img src="/assets/images/globe.png" class="link"></a></h2>
         <p class="profile-affiliation">Senior Data Scientist for the Imageomics Institute, The Ohio State University (United States)</p>
-        <p class="talk-title">TBA</p>
+        <p class="talk-title">AI for Nature: Exploring our Natural Heritage
+</p>
         <p class="talk-summary">
-        TBA
+        Data about our natural world is being collected at an astounding rate, which, coupled with increases in computational capacity, has transformed how we study nature. Extensive digitization efforts by natural history collections around the world, growing community engagement through citizen science platforms, and increasing accessibility and sensitivity of sensor technologies have produced vast quantities of data faster than we can process and analyze through traditional methods.
+In this talk, we will discuss some recent advances and ongoing community initiatives designed to help bridge this gap, enabling researchers to harness the colossal trove of biodiversity data. In particular, we will highlight visualization and analysis techniques built on biological foundation models and introduce the FAIR4AI infrastructure initiative, designed to unlock these resources at scale. There is no AI without data, and by facilitating large-scale content-based analysis across diverse collections, we aim to ensure the scientists generating the data reap the benefits of these AI-enabled advances.
         </p>
     </div>
 </div>
