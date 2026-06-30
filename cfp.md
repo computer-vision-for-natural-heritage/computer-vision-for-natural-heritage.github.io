@@ -29,7 +29,7 @@ Download the ECCV 2026 Author Kit for LaTeX <a href="https://eccv.ecva.net/Confe
 Submission platform: <a href="https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/CVNH" target="_blank">OpenReview</a>. <b>Authors need to be have a valid an updated OpenReview account.</b>
 
 <h2>Dates</h2>
-**Paper submission deadline: July 7, 2026 (AoE)** <br>
+<b>Paper submission deadline: <s>July 7, 2026 (AoE)</s> <font color="red">July 14, 2026</font></b> <br>
 Notification to authors: July 25, 2026 <br>
 Paper camera-ready version: August 8, (AoE) <br>
 

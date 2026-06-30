@@ -69,6 +69,10 @@ layout: page
 
 </style>
 
+<span style="color:red; font-weight: bold; font-size:25px">Call for Papers submission deadline extended: July 14, 2026 (AoE)</span>
+
+<br><br>
+
 <p>Large-scale digitization initiatives are generating massive image datasets from natural history collections. Computer vision is essential for unlocking the scientific value of these data, enabling automated extraction of specimen information and supporting research in biodiversity, ecology, and evolution, including studies of migration and ongoing mass extinction. However, despite controlled imaging conditions and rich metadata, automated analysis remains challenging due to complex specimen structures, varying appearances, and handwritten labels.</p>
 
 <p>The <b>Computer Vision for Natural Heritage (CVNH) is an <font size="+1">ECCV workshop</font></b> that brings together computer vision researchers, natural heritage digitization experts, and domain scientists to advance methods for analyzing 2D, 3D, and multi-modal imaging of natural history collections and to identify open challenges.</p>
