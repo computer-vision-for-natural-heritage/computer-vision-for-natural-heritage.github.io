@@ -69,7 +69,8 @@ layout: page
 
 </style>
 
-<span style="color:red; font-weight: bold; font-size:25px">Call for Papers submission deadline extended: July 14, 2026 (AoE)</span>
+<span style="color:orange; font-weight: bold; font-size:25px">Call for <a href="cfp">Non-Archival Abstracts</a>. Deadline: August 23, 2026 (AoE)</span>
+<!--<span style="color:red; font-weight: bold; font-size:25px">Call for Papers submission deadline extended: July 14, 2026 (AoE)</span>-->
 
 <br><br>
 
@@ -77,7 +78,9 @@ layout: page
 
 <p>The <b>Computer Vision for Natural Heritage (CVNH) is an <font size="+1">ECCV workshop</font></b> that brings together computer vision researchers, natural heritage digitization experts, and domain scientists to advance methods for analyzing 2D, 3D, and multi-modal imaging of natural history collections and to identify open challenges.</p>
 
-<p>CVNH workshop has a <b><font color="red">Call for Papers</font></b> and presents two Challenges:</p>
+<p>CVNH workshop will be held on the <b>8th of September (morning)</b>.</p>
+
+<p>CVNH workshop has a <b>Call for Papers</b> and presents two Challenges:</p>
 
 <ul>
   <li><b>Foram2026</b>: Detection and classification of microCT 3D scans of Forameniferas,</li>

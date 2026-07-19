@@ -15,4 +15,6 @@ map:
   map_provider: "OpenStreetMap.Mapnik"
 ---
 
-Welcome to our conference venue!
+<h2>CVNH Workshop will be held on the 8th of September (morning).</h2>
+
+The exact room will be announced later.
