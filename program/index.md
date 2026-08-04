@@ -35,11 +35,8 @@ title: Conference Program
               <td></td><td rowspan="1" class="program-talk p-0 h-100">
                       <div class="h-100 p-2 bg-info-subtle text-info-emphasis border-4 border-start border-info-subtle shadow-sm overflow-hidden">
 
-                        <p class="mb-2">Keynote 1
-                        </p>
-                        <p class="fw-light mb-2">Speaker Name
-                        </p>
-                        <p class="mb-1">
+                        <p class="mb-2">
+                            Keynote: "<i>Navigating the complexity of butterfly wing patterns with computer vision</i>" — Moritz Lürig
                         </p>
                       </div>
                     </td>
@@ -51,11 +48,8 @@ title: Conference Program
               <td></td><td rowspan="1" class="program-talk p-0 h-100">
                       <div class="h-100 p-2 bg-info-subtle text-info-emphasis border-4 border-start border-info-subtle shadow-sm overflow-hidden">
 
-                        <p class="mb-2">Keynote 2
-                        </p>
-                        <p class="fw-light mb-2">Speaker Name
-                        </p>
-                        <p class="mb-1">
+                        <p class="mb-2">
+                            Keynote: "<i>AI for Nature: Exploring our Natural Heritage </i>" — Elizabeth G. Campolongo
                         </p>
                       </div>
                     </td>
@@ -111,11 +105,8 @@ title: Conference Program
               <td></td><td rowspan="1" class="program-talk p-0 h-100">
                       <div class="h-100 p-2 bg-info-subtle text-info-emphasis border-4 border-start border-info-subtle shadow-sm overflow-hidden">
 
-                        <p class="mb-2">Keynote 3
-                        </p>
-                        <p class="fw-light mb-2">Speaker Name
-                        </p>
-                        <p class="mb-1">
+                        <p class="mb-2">
+                            Keynote: "<i>Multimodal AI for Ecological Monitoring: Images, DNA, and Geolocation</i>" — Joakim Bruslund Haurum
                         </p>
                       </div>
                     </td>
@@ -126,11 +117,8 @@ title: Conference Program
               <td></td><td rowspan="1" class="program-talk p-0 h-100">
                       <div class="h-100 p-2 bg-info-subtle text-info-emphasis border-4 border-start border-info-subtle shadow-sm overflow-hidden">
 
-                        <p class="mb-2">Keynote 4
-                        </p>
-                        <p class="fw-light mb-2">Speaker Name
-                        </p>
-                        <p class="mb-1">
+                        <p class="mb-2">
+                            Keynote: "<i>Using micro-CT to explore the visual ecology of insects</i>" — Emily Baird
                         </p>
                       </div>
                     </td>
