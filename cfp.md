@@ -26,7 +26,7 @@ Papers are limited to <b>14 pages</b>, including figures and tables, in the LNCS
 
 Download the ECCV 2026 Author Kit for LaTeX <a href="https://eccv.ecva.net/Conferences/2026/SubmissionPolicies" target="_blank">here</a> (see <b>Paper formatting</b>)
 
-Submission platform: <a href="https://openreview.net/group?id=thecvf.com/ECCV/2026/Workshop/CVNH" target="_blank">OpenReview</a>. <b>Authors need to be have a valid an updated OpenReview account.</b>
+Submission platform: OpenReview. <b>Authors need to be have a valid an updated OpenReview account.</b>
 
 <h2 style="color: orange">Non-Archival Abstracts</h2>
 
