@@ -13,7 +13,7 @@ title: Conference Program
           </tr>
         </thead>
 
-        <tbody><tr class="h-100"><th scope="row" class="program-time text-end">9:00</th>
+        <tbody><tr class="h-100"><th scope="row" class="program-time text-end">8:30</th>
               <td></td><td rowspan="1" class="p-0 h-100">
                       <div class="h-100 p-2 bg-light-subtle text-light-emphasis border-4 border-start border-light-subtle shadow-sm overflow-hidden">
 
@@ -28,7 +28,7 @@ title: Conference Program
 
             </tr>
             <tr class="h-100"><th scope="row" class="program-time text-end text-muted fw-normal">
-                  9:10
+                  8:40
                 </th>
               <td></td><td rowspan="1" class=" p-0 h-100">
                       <div class="h-100 p-2 bg-info-subtle text-info-emphasis border-4 border-start border-info-subtle shadow-sm overflow-hidden">
@@ -41,7 +41,7 @@ title: Conference Program
 
             </tr>
             <tr class="h-100"><th scope="row" class="program-time text-end text-muted fw-normal">
-                  9:30
+                  9:00
                 </th>
               <td></td><td rowspan="1" class=" p-0 h-100">
                       <div class="h-100 p-2 bg-info-subtle text-info-emphasis border-4 border-start border-info-subtle shadow-sm overflow-hidden">
@@ -53,7 +53,7 @@ title: Conference Program
                     </td>
 
             </tr><tr class="h-100"><th scope="row" class="program-time text-end text-muted fw-normal">
-                  9:50
+                  9:20
                 </th>
               <td></td><td rowspan="1" class=" p-0 h-100">
                       <div class="h-100 p-2 bg-success-subtle text-success-emphasis border-4 border-start border-success-subtle shadow-sm overflow-hidden">
@@ -65,7 +65,7 @@ title: Conference Program
                     </td>
 
             </tr><tr class="h-100"><th scope="row" class="program-time text-end text-muted fw-normal">
-                  10:05
+                  9:35
                 </th>
               <td></td><td rowspan="1" class=" p-0 h-100">
                       <div class="h-100 p-2 bg-success-subtle text-success-emphasis border-4 border-start border-success-subtle shadow-sm overflow-hidden">
@@ -77,7 +77,7 @@ title: Conference Program
                     </td>
 
             </tr><tr class="h-100"><th scope="row" class="program-time text-end text-muted fw-normal">
-                  10:20
+                  9:50
                 </th>
               <td></td><td rowspan="1" class=" p-0 h-100">
                       <div class="h-100 p-2 bg-secondary-subtle text-secondary-emphasis border-4 border-start border-secondary-subtle shadow-sm overflow-hidden">
@@ -92,7 +92,7 @@ title: Conference Program
                     </td>
 
             </tr><tr class="h-100"><th scope="row" class="program-time text-end text-muted fw-normal">
-                  10:50
+                  10:20
                 </th>
               <td></td><td rowspan="1" class=" p-0 h-100">
                       <div class="h-100 p-2 bg-info-subtle text-info-emphasis border-4 border-start border-info-subtle shadow-sm overflow-hidden">
@@ -104,7 +104,7 @@ title: Conference Program
                     </td>
 
             </tr><tr class="h-100"><th scope="row" class="program-time text-end text-muted fw-normal">
-                  11:10
+                  10:40
                 </th>
               <td></td><td rowspan="1" class=" p-0 h-100">
                       <div class="h-100 p-2 bg-info-subtle text-info-emphasis border-4 border-start border-info-subtle shadow-sm overflow-hidden">
@@ -116,7 +116,7 @@ title: Conference Program
                     </td>
 
             </tr><tr class="h-100"><th scope="row" class="program-time text-end text-muted fw-normal">
-                  11:30
+                  11:00
                 </th>
               <td></td><td rowspan="1" class=" p-0 h-100">
                       <div class="h-100 p-2 bg-danger-subtle text-danger-emphasis border-4 border-start border-danger-subtle shadow-sm overflow-hidden">
@@ -136,7 +136,7 @@ title: Conference Program
                     </td>
 
             </tr><tr class="h-100"><th scope="row" class="program-time text-end text-muted fw-normal">
-                  11:45
+                  11:15
                 </th>
               <td></td><td rowspan="1" class=" p-0 h-100">
                       <div class="h-100 p-2 bg-success-subtle text-success-emphasis border-4 border-start border-success-subtle shadow-sm overflow-hidden">
@@ -147,7 +147,7 @@ title: Conference Program
                       </div>
                     </td>
 
-            </tr><tr class="h-100"><td scope="row" class="program-time text-muted text-end fw-normal">12:00</td>
+            </tr><tr class="h-100"><td scope="row" class="program-time text-muted text-end fw-normal">11:30</td>
               <td></td><td rowspan="1" class=" p-0 h-100">
                       <div class="h-100 p-2 bg-warning-subtle text-warning-emphasis border-4 border-start border-warning-subtle shadow-sm overflow-hidden">
 
@@ -161,7 +161,7 @@ title: Conference Program
                     </td>
 
             </tr><tr class="h-100"><th scope="row" class="program-time text-end text-muted fw-normal">
-                  12:55
+                  12:25
                 </th>
               <td></td><td rowspan="1" class=" p-0 h-100">
                       <div class="h-100 p-2 bg-light-subtle text-light-emphasis border-4 border-start border-light-subtle shadow-sm overflow-hidden">
