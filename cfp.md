@@ -35,17 +35,17 @@ The abstract will be evaluated for the suitability to the workshop and it will n
 If accepted, your abstract will be presented as a poster, giving you a great opportunity to showcase your work and advertise it to the community.
 You'll receive an accept/reject notification one week after the submission deadline (see below).
 
-Submit your abstract <a href="https://forms.gle/eohbPespfTtD5Nyh9" target="_blank">here</a>. <br>
+Submit your abstract <s>here</s>. <br>
 <b>Length</b>: Maximum 1 page. <br>
 <b>Template</b>: <a href="https://eccv.ecva.net/Conferences/2026/SubmissionPolicies" target="_blank">ECCV template</a> (submit as a PDF). <br>
 <b>Not anonymized</b>.
 
 <h2>Dates</h2>
 <b>Paper submission deadline: <s>July 7, 2026 (AoE)</s> <font color="red">July 14, 2026</font></b> <br>
-Notification to authors: July 25, 2026 <br>
-Paper camera-ready version: August 8, (AoE) <br>
-<span style="color: orange">Non-archival Abstracts Submission deadline: August 23, (AoE)</span> <br>
-<span style="color: orange">Non-archival Abstracts Notification: September 1, (AoE)</span> <br>
+Notification to authors: <s>July 25, 2026</s> <br>
+Paper camera-ready version: <s>August 8, (AoE)</s> <br>
+<span style="color: orange">Non-archival Abstracts Submission deadline: <s>August 23, (AoE)</s></span> <br>
+<span style="color: orange">Non-archival Abstracts Notification: <s>September 1, (AoE)</s></span> <br>
 
 <h3>Newsletter</h3>
 Sign up to be notified when the final dates are decided and when the datasets are released.

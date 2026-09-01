@@ -69,7 +69,7 @@ layout: page
 
 </style>
 
-<span style="color:orange; font-weight: bold; font-size:25px">Call for <a href="cfp">Non-Archival Abstracts</a>. Deadline: August 23, 2026 (AoE)</span>
+<span style="color:orange; font-weight: bold; font-size:25px">Call for <a href="cfp">Non-Archival Abstracts</a>. Deadline: <s>August 23, 2026 (AoE)</s></span>
 <!--<span style="color:red; font-weight: bold; font-size:25px">Call for Papers submission deadline extended: July 14, 2026 (AoE)</span>-->
 
 <br><br>
