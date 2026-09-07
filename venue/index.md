@@ -15,6 +15,6 @@ map:
   map_provider: "OpenStreetMap.Mapnik"
 ---
 
-<h2>CVNH Workshop will be held on the 8th of September (morning).</h2>
+<h3>CVNH Workshop will be held on the 8th of September (morning).</h3>
 
-The exact room will be announced later.
+<h3>Location: Quality View Hotel - Stroget 3 </h3>
